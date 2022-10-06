@@ -11,6 +11,12 @@ h2 {
   border: 5px;
   border-color: darkslategrey;
   border-style: double;
+  box-shadow: 20px 20px 50px rgb(0, 0, 0);
+}
+
+p {
+  text-align: center;
+  padding-top: 50px;
 }
 
 table {
