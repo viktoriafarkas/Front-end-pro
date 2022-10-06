@@ -12,11 +12,19 @@ h2 {
   border-color: darkslategrey;
   border-style: double;
   box-shadow: 20px 20px 50px rgb(0, 0, 0);
+  text-decoration-line: overline;
+  text-decoration-color: red;
+  letter-spacing: 10px;
 }
 
 p {
   padding-top: 50px;
   text-align: justify;
+  background-image: url(./massimiliano-martini-IeEFsajuORc-unsplash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:white;
 }
 
 table {
@@ -31,4 +39,5 @@ table {
     border-collapse: collapse;
     padding: 5px;
     border-color: grey;
+    text-shadow: 2px 2px red;
   }
